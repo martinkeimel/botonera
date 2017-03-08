@@ -1,0 +1,9 @@
+{
+  "name": "botonera",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "v1.6.x",
+    "bootstrap": "v3.3.7"
+  }
+}
