@@ -20,6 +20,11 @@ app.controller('botoneraCtrl', function($scope) {
             image: 'images/btn_orange.png',
             text: 'Que placer',
             audio: 'media/que placer.mp3'
+        },
+        {
+            image: 'images/btn_yellow.png',
+            text: 'Arcoiris',
+            audio: 'media/arcoiris.mp3'
         }
     ];
     
