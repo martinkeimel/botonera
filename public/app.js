@@ -8,30 +8,40 @@ app.controller('botoneraCtrl', function($scope) {
     $scope.botones = [
         {
             image: 'images/btn_blue.png',
-            text: 'BABOOM!',
-            audio: 'media/baboom.mp3'
+            text: 'Bicho',
+            audio: 'media/bicho.mp3'
         },
         {
             image: 'images/btn_red.png',
-            text: 'Buenos dias',
-            audio: 'media/buenos dias.mp3'
+            text: 'Buen dia',
+            audio: 'media/buen dia.mp3'
         },
         {
             image: 'images/btn_orange.png',
-            text: 'Que placer',
-            audio: 'media/que placer.mp3'
+            text: 'Corneta',
+            audio: 'media/corneta.mp3'
         },
         {
             image: 'images/btn_yellow.png',
-            text: 'Arcoiris',
-            audio: 'media/arcoiris.mp3'
+            text: 'Jajaja',
+            audio: 'media/jajaja.mp3'
+        },
+        {
+            image: 'images/btn_green.png',
+            text: 'Tincho',
+            audio: 'media/tincho.mp3'
+        },
+        {
+            image: 'images/btn_blue.png',
+            text: 'Y bueno',
+            audio: 'media/y bueno.mp3'
         }
     ];
     
     $scope.bonus = [
         {
             image: 'images/btn_green.png',
-            text: 'Bonus',
+            text: 'Fefo',
             audio: 'media/fefo come hombres.mp3'
         }
     ];
